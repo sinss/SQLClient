@@ -129,22 +129,22 @@ extern "C" {
 #endif
 
 typedef struct tagSS_TIME2_STRUCT {
-	SQLUSMALLINT hour;
-	SQLUSMALLINT minute;
-	SQLUSMALLINT second;
-	SQLUINTEGER fraction;
+    int hour;
+    int minute;
+    int second;
+    int fraction;
 } SQL_SS_TIME2_STRUCT;
 
 typedef struct tagSS_TIMESTAMPOFFSET_STRUCT {
-	SQLSMALLINT year;
-	SQLUSMALLINT month;
-	SQLUSMALLINT day;
-	SQLUSMALLINT hour;
-	SQLUSMALLINT minute;
-	SQLUSMALLINT second;
-	SQLUINTEGER fraction;
-	SQLSMALLINT timezone_hour;
-	SQLSMALLINT timezone_minute;
+    int year;
+    int month;
+    int day;
+    int hour;
+    int minute;
+    int second;
+    int fraction;
+    int timezone_hour;
+    int timezone_minute;
 } SQL_SS_TIMESTAMPOFFSET_STRUCT;
 
 

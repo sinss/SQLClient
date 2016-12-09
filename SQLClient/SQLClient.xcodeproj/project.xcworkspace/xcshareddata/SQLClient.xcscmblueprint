@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "734527085BA941B6AA0A28A9BCB714D705F8635B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "734527085BA941B6AA0A28A9BCB714D705F8635B" : 9223372036854775807,
+    "8632A5F3CBFE41374CD4946A6C889202949F90FB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6AEB01BC-3755-417F-A496-808280861BB3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "734527085BA941B6AA0A28A9BCB714D705F8635B" : "SQLClient\/",
+    "8632A5F3CBFE41374CD4946A6C889202949F90FB" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SQLClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SQLClient\/SQLClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sinss\/SQLClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "734527085BA941B6AA0A28A9BCB714D705F8635B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sinss\/stallone-maker-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8632A5F3CBFE41374CD4946A6C889202949F90FB"
+    }
+  ]
+}
