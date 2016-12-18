@@ -13,7 +13,7 @@
 
 #define SYBUNIQUEIDENTIFIER 36
 
-int const SQLClientDefaultTimeout = 5;
+int const SQLClientDefaultTimeout = 15;
 int const SQLClientDefaultMaxTextSize = 4096;
 NSString* const SQLClientDefaultCharset = @"UTF-8";
 NSString* const SQLClientWorkerQueueName = @"com.martinrybak.sqlclient";
